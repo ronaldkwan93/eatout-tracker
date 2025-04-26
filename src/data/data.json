@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "amount": 25.5,
+    "date": "2025-04-01",
+    "restaurant": "Burger Haven"
+  },
+  {
+    "id": 2,
+    "amount": 42.0,
+    "date": "2025-04-03",
+    "restaurant": "Pasta Palace"
+  },
+  {
+    "id": 3,
+    "amount": 15.75,
+    "date": "2025-04-07",
+    "restaurant": "Taco Town"
+  },
+  {
+    "id": 4,
+    "amount": 60.2,
+    "date": "2025-04-10",
+    "restaurant": "Sushi Central"
+  },
+  {
+    "id": 5,
+    "amount": 33.1,
+    "date": "2025-04-15",
+    "restaurant": "Curry Corner"
+  }
+]
